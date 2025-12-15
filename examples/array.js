@@ -69,3 +69,16 @@ const {
 console.log("nested destructured t1, deep =", t1, deep);
 
 console.log("\n=== end of array/destructuring examples ===");
+
+
+let student= {
+  name:"apsan",
+  age:12,
+  course:"Bca"
+}
+console.log(student.age)
+
+let v=10
+let r="10"
+console.log(v==r)
+console.log(v===r)
